@@ -1,0 +1,22 @@
+{
+  "name": "TestPods",
+  "version": "0.1.0",
+  "summary": "A short description of TestPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Stephen/TestPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Stephen": "stephen.chui@mitake.com.tw"
+  },
+  "source": {
+    "git": "https://github.com/Stephen/TestPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPods/Classes/**/*"
+}
